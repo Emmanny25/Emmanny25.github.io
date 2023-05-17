@@ -6,9 +6,9 @@ html {
 
 body {
     font-family: sans-serif;
-    background-color: rgb(53, 168, 235);
+    background-image: url('Confetti Background Img.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; 
 }
 
 main {
